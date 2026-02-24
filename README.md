@@ -1,5 +1,7 @@
 **Project for Business Analytics Toolbox course of the Master's in Business Analytics at Questrom.**
+
 **Professor:** Mohammad Soltanieh-ha
+
 **Team members:** Fei Han, Kefei Zhang, Roberto Albornoz, Samuel Buelvas and Shanmathi Simakuvar.
 
 # **Executive Summary**
